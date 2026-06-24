@@ -28,7 +28,7 @@ This view highlights critical financial KPIs, annual revenue/margin trends, and 
 * **Key Metrics:** $25\text{M}$ Total Revenue, $10\text{M}$ Total Profit, and a $40.19\%$ Profit Margin.
 * **Preview:**
 
-![Financial Performance Overview](Screenshot 2026-06-24 144353.png)
+![Financial Performance Overview]([Screenshot 2026-06-24 144353.png](https://github.com/AymenAli-Analyst/Healthcare-Intelligence-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-06-24%20144353.png?raw=true))
 
 ---
 
