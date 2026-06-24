@@ -50,7 +50,7 @@ This dashboard enables healthcare executives and managers to make informed decis
 
 📷 Dashboard Screenshot
 
-[Insert Financial Dashboard Image Link]
+[[Insert Financial Dashboard Image Link](https://github.com/AymenAli-Analyst/Healthcare-Intelligence-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-06-24%20144353.png?raw=true)]
 
 ---
 
