@@ -1,135 +1,74 @@
 # 🏥 Healthcare Intelligence & Performance Analytics Dashboard
 
-## 📌 Project Overview
+## 📌 Project Overview   
+# 🏥 Healthcare Business Intelligence Dashboard
 
-A comprehensive Healthcare Business Intelligence solution developed using Power BI to analyze operational performance, financial outcomes, physician productivity, patient behavior, and insurance profitability.
+![Power BI](https://img.shields.io/badge/Data_Visualization-Power_BI-yellow)
+![UI Design](https://img.shields.io/badge/UI_UX-Figma-purple)
+![Industry](https://img.shields.io/badge/Industry-Healthcare-blue)
 
-This dashboard enables healthcare executives and managers to make informed decisions through interactive visualizations and actionable insights.
-
----
-
-## 🎯 Business Objectives
-
-✔ Improve Patient Experience
-
-✔ Monitor Physician Performance
-
-✔ Reduce Operational Costs
-
-✔ Increase Revenue & Profitability
-
-✔ Optimize Appointment Management
-
-✔ Support Data-Driven Decision Making
+A comprehensive, interactive, and dark-themed Business Intelligence solution designed to analyze clinical, operational, and financial healthcare data. Built with a cinematic, high-contrast user interface to ensure optimal scannability, this dashboard empowers healthcare executives and clinic managers to discover critical insights and drive data-backed operational improvements.
 
 ---
 
-## 🛠 Tools & Technologies
+## 🚀 Project Overview
 
-* Power BI
-* Power Query
-* DAX
-* Microsoft Excel
-* Data Modeling
-* Data Cleaning
-* Business Intelligence
-* Data Visualization
+This analytics project delivers a 360-degree view of medical facility operations by breaking down complex datasets into three highly focused strategic pillars:
+1. **Financial Performance:** Monitoring revenue generation, gross profits, and profit margins across geographical regions and insurance tiers.
+2. **Physician Performance:** Evaluating doctor utilization rates, operational costs per specialty, and tracking patient satisfaction metrics against cancellations.
+3. **Clinical Operations:** Analyzing appointment fulfillment cycles, patient gender distributions, and average waiting times to optimize clinic throughput.
 
 ---
 
-## 📊 Dashboard Pages
+## 📊 Dashboard Views & Pages
 
 ### 1️⃣ Financial Performance Overview
+This view highlights critical financial KPIs, annual revenue/margin trends, and deep dives into which medical specialties or insurance plans drive the most profitability.
 
-* Total Revenue
-* Total Profit
-* Profit Margin
-* Revenue Growth
-* Revenue by Specialty
-* Insurance Profitability
+* **Key Metrics:** $25\text{M}$ Total Revenue, $10\text{M}$ Total Profit, and a $40.19\%$ Profit Margin.
+* **Preview:**
 
-📷 Dashboard Screenshot
-
-[[Insert Financial Dashboard Image Link](<img width="1079" height="645" alt="image" src="https://github.com/user-attachments/assets/8e02a8ba-0d92-4bf9-b6b3-176faf2795d5" />)
-
+![Financial Performance Overview](Screenshot 2026-06-24 144353.png)
 
 ---
 
-### 2️⃣ Clinical Operations & Appointments
+### 2️⃣ Physician Performance & Insights
+Designed for clinical operational leaders, this page maps out department-specific operational costs, compares a doctor's years of experience against patient waiting times, and audits revenue performance per staff member.
 
-* Total Appointments
-* Completion Rate
-* Waiting Time Analysis
-* Appointment Status
-* Patient Distribution
+* **Key Metrics:** Highlights Pediatrics and Dentistry as highest operational cost centers, alongside full staff performance matrices.
+* **Preview:**
 
-📷 Dashboard Screenshot
-
-[[Insert Operations Dashboard Image Link](https://github.com/AymenAli-Analyst/Healthcare-Intelligence-Performance-Analytics-Dashboard/blob/main/Screenshot%202026-06-24%20144420.png?raw=true)]
+![Physician Performance & Insights](Screenshot 2026-06-24 144420.png)
 
 ---
 
-### 3️⃣ Physician Performance Analytics
+### 3️⃣ Clinical Operations & Appointments
+A detailed analytical space mapping out scheduling efficiency, visualizing appointment status breakdowns (Completed vs. Canceled vs. No-Show), and uncovering weekday vs. weekend distribution trends.
 
-* Total Doctors
-* Revenue by Doctor
-* Profit by Doctor
-* Patient Satisfaction
-* Operational Cost Analysis
+* **Key Metrics:** $10\text{K}$ Total Appointments, $34.08\%$ Appointment Completion Rate, and clear gender distribution trends.
+* **Preview:**
 
-📷 Dashboard Screenshot
-
-[Insert Physician Dashboard Image Link]
+![Clinical Operations & Appointments](Screenshot 2026-06-24 144451.png)
 
 ---
 
-## 📈 Key Insights
+## 🛠️ Tech Stack & Skills Demonstrated
 
-### Revenue Performance
-
-* Orthopedics generated the highest revenue.
-* Pediatrics generated the lowest revenue.
-
-### Operational Efficiency
-
-* Waiting time increased significantly in 2024.
-* Appointment completion rate requires improvement.
-
-### Cost Management
-
-* Dentistry and Dermatology showed the highest operational costs.
-
-### Insurance Analysis
-
-* Significant profitability differences across insurance plans.
+* **Data Modeling & DAX:** Advanced data modeling, relationships, and calculated time-intelligence measures using **Microsoft Power BI**.
+* **UI/UX Design:** Custom glassmorphic containers, structured navigation layouts, and rounded-corner cards built in **Figma** to achieve a premium, dark-themed dashboard container.
+* **Data Prep:** Structuring relational schemas (fact and dimension tables) ready for production environments.
 
 ---
 
-## 🚀 Recommendations
+## 📈 Key Interactive Features
 
-* Optimize appointment scheduling.
-* Reduce patient waiting time.
-* Improve patient attendance rates.
-* Focus on high-performing specialties.
-* Review operational expenses.
-* Enhance insurance portfolio strategy.
+* 🎛️ **Cross-Filtering & Slicers:** Seamlessly filter the entire dataset by Year, City, Insurance Type, or Medical Specialty.
+* 🎨 **Cinematic Dark Mode UI:** High contrast ratios to prioritize data scannability at a glance without visual fatigue.
+* 📈 **Trend Analysis:** Clear dual-axis line charts tracking historical margins alongside revenue growth (YoY/MoM).
 
 ---
+💼 **Business Intelligence Dashboard**
 
-## 📂 Project Assets
-
-### Dashboard Screenshots
-
-📸 Financial Dashboard:
-[Insert Image Link]
-
-📸 Clinical Operations Dashboard:
-[Insert Image Link]
-
-📸 Physician Performance Dashboard:
-[Insert Image Link]
-
----
 
 ## 👨‍💻 Author
 
